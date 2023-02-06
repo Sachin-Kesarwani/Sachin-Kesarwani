@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [https://sachin-kesarwani.github.io/](https://sachin-kesarwani.github.io/)
 
-- 💬 Ask me about **React** |**HTML**
+- 💬 Ask me about  **HTML** | **CSS** | **JS** | **React** | **MongoDB** |
 
 <h3 align="left">Connect with me:sachin.kesarwani67890@gmail.com</h3>
 <p align="left">
