@@ -13,7 +13,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://html.com/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREr1UN0pTLaOQvvRPbf9-B6DoIP5FiQ1_aEQ&usqp=CAU" alt="HTML" width="70" height="40"/> </a> </p>
-<p align="left"> <a href="https://html.com/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREr1UN0pTLaOQvvRPbf9-B6DoIP5FiQ1_aEQ&usqp=CAU" alt="HTML" width="70" height="40"/> </a> </p>
+<p align="left"> <a href="https://html.com/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREr1UN0pTLaOQvvRPbf9-B6DoIP5FiQ1_aEQ&usqp=CAU" alt="HTML" width="70" height="40"/> </a> <a href="https://html.com/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREr1UN0pTLaOQvvRPbf9-B6DoIP5FiQ1_aEQ&usqp=CAU" alt="HTML" width="70" height="40"/> </a> </p>
+<!-- <p align="left"> <a href="https://html.com/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREr1UN0pTLaOQvvRPbf9-B6DoIP5FiQ1_aEQ&usqp=CAU" alt="HTML" width="70" height="40"/> </a> </p> -->
 
 
