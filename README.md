@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/originals/2f/f4/28/2ff428006f3ade5f10beac69372062ab.gif" alt="mongodb" width="60%" height="200" style=margin:"auto"; />
+<img src="https://i.pinimg.com/originals/2f/f4/28/2ff428006f3ade5f10beac69372062ab.gif" alt="mongodb" width="60%" height="300"/>
 <h1 align="center">Hi 👋, I'm Sachin Kesarwani</h1>
 <h3 align="center">A passionate Full Stack Web Development from India</h3>
 
