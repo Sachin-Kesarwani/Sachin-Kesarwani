@@ -18,9 +18,9 @@
 
 
 
-<div align="center" style="display:flex"> <a href="https://html.com/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREr1UN0pTLaOQvvRPbf9-B6DoIP5FiQ1_aEQ&usqp=CAU" alt="HTML" width="70" height="40"/></a> 
+<div align="center" style="display:flex,flexWrap:wrap"> <a href="https://html.com/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREr1UN0pTLaOQvvRPbf9-B6DoIP5FiQ1_aEQ&usqp=CAU" alt="HTML" width="70" height="40"/></a> 
 
-<a href="https://html.com/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_9uu7QdlTOxnPfuHVMY6srCFU9mKae_h18wEJMCJKBF5oyaR5nrwqZXc52kE398sr7mY&usqp=CAU" alt="HTML" width="70" height="40"/> </a>
+<a href="https://html.com/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_9uu7QdlTOxnPfuHVMY6srCFU9mKae_h18wEJMCJKBF5oyaR5nrwqZXc52kE398sr7mY&usqp=CAU" alt="HTML" width="70" height="50"/> </a>
 </div>
 
 
