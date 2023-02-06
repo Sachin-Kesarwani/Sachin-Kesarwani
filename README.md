@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://sachin-kesarwani.github.io/](https://sachin-kesarwani.github.io/)
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **React** |**HTML**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
