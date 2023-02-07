@@ -6,7 +6,7 @@
 
 - 👨‍💻 Portfolio Link [https://sachin-kesarwani.github.io/](https://sachin-kesarwani.github.io/)
 
-- 💬 Ask me about  **HTML** | **CSS** | **JS** | **React** | **MongoDB** |
+- 💬 Ask me about  **HTML** , **CSS** , **JS** , **React**  , **Chakra-UI** , **MongoDB**, **ExpressJS** , **Node-JS**
 - 
 
 <h3 align="left">Connect with me:sachin.kesarwani67890@gmail.com</h3>
