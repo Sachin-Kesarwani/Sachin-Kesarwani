@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 Portfolio Link [https://sachin-kesarwani.github.io/](https://sachin-kesarwani.github.io/)
+- 👨‍💻 Know more About me [https://sachin-kesarwani.github.io/](https://sachin-kesarwani.github.io/)
 
 - 💬 Ask me about  **HTML** , **CSS** , **JS** , **React**  , **Chakra-UI** , **MongoDB**, **ExpressJS** , **Node-JS**
 - 
