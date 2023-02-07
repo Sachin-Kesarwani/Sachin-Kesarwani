@@ -28,3 +28,4 @@
 <h2>About Performance on Work</h2>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sachin-Kesarwani&theme=onedark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sachin-Kesarwani&layout=compact"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Sachin-Kesarwani&show_icons=true&theme=radical"/>
