@@ -9,7 +9,7 @@
 - 💬 Ask me about  **HTML** , **CSS** , **JS** , **React**  , **Chakra-UI** , **MongoDB**, **ExpressJS** , **Node-JS**
 - 📄 My Resume <a href="https://drive.google.com/file/d/1zztPdp7ZZE-dTh7X4-V7oOVyuHH7TVXH/view?usp=share_link">Sachin-Kesarwani</a>
 
-<h3 align="left">Connect with me:sachin.kesarwani67890@gmail.com</h3>
+<h3 align="left">Connect with me : sachin.kesarwani67890@gmail.com</h3>
 <p align="left">
 </p>
 
@@ -54,7 +54,7 @@
 
 
 <h3 align="left">Description </h3>
-<p> I am full Stack developer </p>
+<p>Hey , This is Sachin Kesarwani Full Stack web developer  with the knowledge of frontend and backened . Ready for to get opportunity and alse have enthusiastic to give contribution on projects .  </p>
 <h2>About Performance on Work</h2>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sachin-Kesarwani&theme=onedark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sachin-Kesarwani&layout=compact"/>
