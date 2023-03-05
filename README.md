@@ -9,10 +9,11 @@
 - 💬 Ask me about  **HTML** , **CSS** , **JS** , **React**  , **Chakra-UI** , **MongoDB**, **ExpressJS** , **Node-JS**
 - 📄 My Resume <a href="https://drive.google.com/file/d/1zztPdp7ZZE-dTh7X4-V7oOVyuHH7TVXH/view?usp=share_link">Sachin-Kesarwani</a>
 
-<h3 align="left">Connect with me : sachin.kesarwani67890@gmail.com</h3>
+<h3 align="left">Connect with me : <a>sachin.kesarwani67890@gmail.com</a></h3>
 <p align="left">
 </p>
-
+<h2>Some of My projects</h2>
+<li><a>https://lavish-look-sachin-kesarwani.vercel.app/</a></li>
 <h3 align="left">Languages and Tools:</h3>
 
  <div align="center"><h3 align="center">Frontend</h3>
