@@ -13,9 +13,9 @@
 <p align="left">
 </p>
 <h2>Some of My projects</h2>
-https://lavish-look-sachin-kesarwani.vercel.app/<br>
-https://fit-factory.vercel.app/
-
+<p>Lavish Look</p>https://lavish-look-sachin-kesarwani.vercel.app/<br>
+<p>Fit Factory</p>https://fit-factory.vercel.app/
+<p>Solution.com</p>https://lovely-snickerdoodle-8bb2d5.netlify.app/
 <h3 align="left">Languages and Tools:</h3>
 
  <div align="center"><h3 align="center">Frontend</h3>
