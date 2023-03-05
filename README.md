@@ -13,7 +13,7 @@
 <p align="left">
 </p>
 <h2>Some of My projects</h2>
-<li><a>https://lavish-look-sachin-kesarwani.vercel.app/</a></li>
+<li></li>https://lavish-look-sachin-kesarwani.vercel.app/
 <h3 align="left">Languages and Tools:</h3>
 
  <div align="center"><h3 align="center">Frontend</h3>
