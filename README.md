@@ -9,7 +9,7 @@
 - 💬 Ask me about  **HTML** , **CSS** , **JS** , **React**  , **Chakra-UI** , **MongoDB**, **ExpressJS** , **Node-JS**
 - 📄 My Resume <a href="https://drive.google.com/file/d/1zztPdp7ZZE-dTh7X4-V7oOVyuHH7TVXH/view?usp=share_link">Sachin-Kesarwani</a>
 
-<h3 align="left">Connect with me : <link>sachin.kesarwani67890@gmail.com</link></h3>
+<h3 align="left">Connect with me : <a href="#">sachin.kesarwani67890@gmail.com</a></h3>
 <p align="left">
 </p>
 <h2>Some of My projects</h2>
