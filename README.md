@@ -1,8 +1,8 @@
 <img src="https://i.pinimg.com/originals/2f/f4/28/2ff428006f3ade5f10beac69372062ab.gif" alt="mongodb" width="100%" height="400" style="margin:auto,align:center"/>
 <h1 align="center">Hi 👋, I'm Sachin Kesarwani</h1>
-<h3 align="center">A passionate Full Stack Web Development </h3>
+<h3 align="center">A passionate about Full Stack Web Development </h3>
 
-- 🌱 I’m currently learning **React**
+<!-- - 🌱 I’m currently learning **React** -->
 
 - 👨‍💻 Know more About me [https://sachin-kesarwani.github.io/](https://sachin-kesarwani.github.io/)
 
