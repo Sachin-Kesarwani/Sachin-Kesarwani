@@ -62,7 +62,12 @@
 
 
 <h3 align="left">Description </h3>
-<p>Hey , This is Sachin Kesarwani Full Stack web developer  with the knowledge of frontend and backened . Ready for to get opportunity and alse have enthusiastic to give contribution on projects .  </p>
+<p>Full Stack Developer with experience at Traviez, specializing in
+ frontend development  and certified by Masai School. Proficient in
+ web and mobile application development, focused on delivering
+ seamless user experiences and optimizing performance. Skilled in
+ crafting innovative solutions, collaborating in cross-functional teams,
+ and adapting to dynamic project requirements. </p>
 <h2>About Performance on Work</h2>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sachin-Kesarwani&theme=onedark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sachin-Kesarwani&layout=compact"/>
