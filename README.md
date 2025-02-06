@@ -7,7 +7,7 @@
 - 👨‍💻 Know more About me [https://sachin-kesarwani.github.io/](https://sachin-kesarwani.github.io/)
 
 - 💬 Ask me about **JavaScript**, **React**, **Next.js**, **React Native**, **TypeScript**,**Tailwind CSS** **Redux**, **Nuqs**, **Node.js**, **MongoDB**, **HTML 5**, **CSS3**
-- 📄 My Resume <a href="https://drive.google.com/file/d/1zztPdp7ZZE-dTh7X4-V7oOVyuHH7TVXH/view?usp=share_link">Sachin-Kesarwani</a>
+- 📄 My Resume <a href="https://drive.google.com/file/d/1W_fPFAkaKByqQQChNjJFSVm8RbpXhch7/view?usp=sharing">Sachin-Kesarwani</a>
 
 <h3 align="left">Connect with me : <a href="#">sachin.kesarwani67890@gmail.com</a></h3>
 <p align="left">
