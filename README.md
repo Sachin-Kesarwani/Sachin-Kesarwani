@@ -6,7 +6,7 @@
 
 - 👨‍💻 Know more About me [https://sachin-kesarwani.github.io/](https://sachin-kesarwani.github.io/)
 
-- 💬 Ask me about  **HTML** , **CSS** , **JS** , **React**  , **Chakra-UI** , **MongoDB**, **ExpressJS** , **Node-JS**
+- 💬 Ask me about JavaScript, React, Next.js, React Native, TypeScript, Redux, Nuqs, Node.js, MongoDB, HTML5, CSS
 - 📄 My Resume <a href="https://drive.google.com/file/d/1zztPdp7ZZE-dTh7X4-V7oOVyuHH7TVXH/view?usp=share_link">Sachin-Kesarwani</a>
 
 <h3 align="left">Connect with me : <a href="#">sachin.kesarwani67890@gmail.com</a></h3>
