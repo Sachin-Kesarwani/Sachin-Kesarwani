@@ -13,6 +13,8 @@
 <p align="left">
 </p>
 <h2>Some of My projects</h2>
+<p>Traviez Web </p>https://www.traviez.com/ <br>
+<p>Traviez App </p>https://play.google.com/store/apps/details?id=com.traviez.app&pcampaignid=web_share/ <br>
 <p>Lavish Look</p>https://lavish-look-sachin-kesarwani.vercel.app/<br>
 <p>Fit Factory</p>https://fit-factory.vercel.app/
 <p>Solution.com</p>https://lovely-snickerdoodle-8bb2d5.netlify.app/
